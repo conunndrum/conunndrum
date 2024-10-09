@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1>About me</h1>
 
-<!--
-**conunndrum/conunndrum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+nama saya Al ayubi akbar.
 
-Here are some ideas to get you started:
+saya lahir pada 27 april 2009.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+sasya anak ke dua dari dua bersaudara.
+
+umur 15 tahun.
+
+alamat:saya tinggal di bendabaru kota tangerang selatan.
+
+<h2>hobby</h2>
+
+main alat musik.
+
+main game.
+
+mendengarkan musik.
+
+mencoba sesuatu hal yang baru.
